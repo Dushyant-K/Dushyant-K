@@ -1,7 +1,4 @@
-                   ### https://github.com/Dushyant-K/Dushyant-K/assets/83710811/c2c5f9a5-a5b6-4ba7-82a7-678dfdce1389
-
-
-
+                   ### https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png
 
 
                                             Hi there 👋, I'm Dushyant.
