@@ -1,4 +1,4 @@
-                  <a href="https://github.com/Dushyant-K"><img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png" style=""></a>
+   <a href="https://github.com/Dushyant-K"><img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png" style=""></a>
 
 
                                             Hi there 👋, I'm Dushyant.
