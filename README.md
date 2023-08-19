@@ -17,7 +17,7 @@
 ---------
 <p float="left">
 <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="width:50px;height:50px;"></a>       
-<a href="https://www.java.com/en/"><img src="https://icon-library.com/icon/java-icon-png-3.html" style="width:50px;height:50px;"></a>   
+<a href="https://www.java.com/en/"><img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50px;height:50px;"></a>   
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwpreJBhDvARIsAF1_BU3DdmjQO4vjKsd4XaAVkskn4NxtW1F1nBcOAZIyYT4hfh3DCwL4mzQaAjLvEALw_wcB&gclsrc=aw.ds"><img src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg" style="width:50px;height:50px;"></a>   
 <a href="https://www.mysql.com/"><img src="https://www.freepnglogos.com/images/logo-mysql-26353.html" style="width:50px;height:50px;"></a>   
 <a href="https://devdocs.io/cpp/"><img src="https://www.flaticon.com/free-icon/c_6132222" style="width:50px;height:50px;"></a>   
