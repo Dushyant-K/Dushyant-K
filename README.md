@@ -15,7 +15,18 @@
 🚀 Languages and Tools:
 
 ---------
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="width:50px;height:50px;"></a>         
+<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="width:50px;height:50px;"></a>       
+<a href="https://www.java.com/en/"><img src="https://www.flaticon.com/free-icon/java_226777" style="width:50px;height:50px;"></a>   
+<a href="https://developer.android.com/studio?gclid=Cj0KCQjwpreJBhDvARIsAF1_BU3DdmjQO4vjKsd4XaAVkskn4NxtW1F1nBcOAZIyYT4hfh3DCwL4mzQaAjLvEALw_wcB&gclsrc=aw.ds"><img src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg" style="width:50px;height:50px;"></a>   
+<a href="https://www.mysql.com/"><img src="https://www.freepnglogos.com/images/logo-mysql-26353.html" style="width:50px;height:50px;"></a>   
+<a href="https://devdocs.io/cpp/"><img src="https://www.flaticon.com/free-icon/c_6132222" style="width:50px;height:50px;"></a>   
+<a href="https://firebase.google.com/"><img src="https://uxwing.com/google-firebase-icon/" style="width:50px;height:50px;"></a>   
+<a href="https://git-scm.com/"><img src="https://git-scm.com/downloads/logos" style="width:50px;height:50px;"></a>   
+<a href="https://ubuntu.com/"><img src="https://www.flaticon.com/free-icon/ubuntu_888879" style="width:50px;height:50px;"></a>  
+<a href="https://www.docker.com/"><img src="https://www.pngfind.com/mpng/ihboJxh_icon-docker-notext-color-docker-icon-png-transparent/" style="width:50px;height:50px;"></a>  
+<a href="https://www.mongodb.com/device-sync/lp"><img src="https://iconscout.com/icons/mongodb" style="width:50px;height:50px;"></a>  
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://www.flaticon.com/free-icon/html-5_732212" style="width:50px;height:50px;"></a>  
+<a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://www.flaticon.com/free-icon/css-3_732190" style="width:50px;height:50px;"></a>  
 
         
 
