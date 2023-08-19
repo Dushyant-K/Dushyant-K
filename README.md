@@ -15,7 +15,7 @@
 🚀 Languages and Tools:
 
 ---------
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></a>         
+<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="width:50px;height:50px;></a>         
 
         
 
