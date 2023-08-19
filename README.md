@@ -1,4 +1,4 @@
-### ![bio](https://github.com/Dushyant-K/Dushyant-K/assets/83710811/c2c5f9a5-a5b6-4ba7-82a7-678dfdce1389)
+                   ### ![bio](https://github.com/Dushyant-K/Dushyant-K/assets/83710811/c2c5f9a5-a5b6-4ba7-82a7-678dfdce1389)
 
 
 
@@ -15,7 +15,7 @@
 🚀 Languages and Tools:
 
 ---------
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="image destination](https://pixabay.com/illustrations/photoshop-logo-symbol-adobe-icon-1065296/"></a>         
+<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://pixabay.com/illustrations/photoshop-logo-symbol-adobe-icon-1065296/"></a>         
 
         
 
