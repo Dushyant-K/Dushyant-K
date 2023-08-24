@@ -1,3 +1,4 @@
+                                                                                                                                                                  
    <a href="https://github.com/Dushyant-K"><img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png" style=""></a>
 
 
@@ -5,7 +6,7 @@
 --------
                                             
                         "Curious coder and problem solver, crafting digital solutions one line of code at a time."
-📫 How to reach me dushyantverma.cs11@gmail.com
+📫 How to reach me: dushyantverma.cs11@gmail.com
 
 ---------
 
